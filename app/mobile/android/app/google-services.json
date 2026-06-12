@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "551713432369",
+        "project_id": "gudang-damar-497702-5e446",
+        "storage_bucket": "gudang-damar-497702-5e446.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:551713432369:android:b4c77929f2ee0dfe664610",
+                "android_client_info": {
+                    "package_name": "com.gudangdamar.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": ""
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+/vendor/
+
+.dart_tool/
+**/android/local.properties

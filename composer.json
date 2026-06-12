@@ -1,0 +1,15 @@
+{
+    "name": "damar/gudang-damar",
+    "autoload": {
+        "psr-4": {
+            "Damar\\GudangDamar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damar muharram",
+            "email": "muharram2005@gmail.com"
+        }
+    ],
+    "require": {}
+}
