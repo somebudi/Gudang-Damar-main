@@ -361,6 +361,29 @@ class _RiwayatAktivitasScreenState extends State<RiwayatAktivitasScreen> {
                             child: const Icon(Icons.tune, color: Color(0xFF2563EB), size: 18),
                           ),
                         ),
+                        TextButton.icon(
+                        onPressed: () {
+                          // Aksi navigasi atau membuka chart modal
+                        },
+                        icon: const Icon(Icons.bar_chart_rounded, color: Colors.black, size: 20),
+                        label: const Text(
+                          'Grafik',
+                          style: TextStyle(
+                            color: Colors.black,
+                            fontWeight: FontWeight.w700,
+                            fontSize: 13,
+                          ),
+                        ),
+                        style: TextButton.styleFrom(
+                          backgroundColor: Colors.white,
+                          minimumSize: const Size.fromHeight(40),
+                          padding: const EdgeInsets.symmetric(horizontal: 14),
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(8),
+                            side: const BorderSide(color: Color(0xFFE2E8F0)),
+                          ),
+                        ),
+                      ),
                       ],
                     ),
                   ],
